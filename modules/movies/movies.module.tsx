@@ -6,12 +6,27 @@ import { MovieItem } from "./components/movie-item/movie-item.component";
 import { MoviesActions } from "./redux-state/movies-actions";
 import { MovieState } from "./redux-state/movies-state.interface";
 import { useAppDispatch, useAppSelector } from "shared/redux-state/app.hooks";
+import { useScreenSize } from "shared/hooks/use-screen-size.hook";
 
 export const MoviesModule = () => {
+  const screenSize = useScreenSize();
+
   const dispatch = useAppDispatch();
   const { data, status, total } = useAppSelector<MovieState>(
     (state) => state.movies
   );
+
+  const getColumnCount = () => {
+    if (screenSize === "large" || screenSize === "xlarge") {
+      return 8;
+    }
+
+    if (screenSize === "tablet"||screenSize === "medium") {
+      return 6;
+    }
+
+    return 4;
+  };
 
   if (total === 0 && status === "Fetching") {
     return (
@@ -31,7 +46,7 @@ export const MoviesModule = () => {
         error={status === "FetchFailed"}
         total={total}
         itemHeight={250}
-        columnCount={4}
+        columnCount={getColumnCount()}
         itemRenderer={({ key, index, isLoaded, style: itemStyle }) => {
           const item = data[index];
 
