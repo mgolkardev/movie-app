@@ -1,0 +1,35 @@
+@import "./reset.scss";
+@import "./colors";
+@import "./dimensions";
+
+body {
+  font: $large-regular;
+  direction: rtl;
+  background-color: $background;
+  color: $on-background;
+  margin: 0 auto;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: $controller transparent;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 4px;
+  height: 5px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 5px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: $controller;
+  border-radius: 14px;
+}
