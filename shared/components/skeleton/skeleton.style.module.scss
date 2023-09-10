@@ -1,0 +1,21 @@
+@import "shared/themes/colors";
+
+@keyframes shine {
+  to {
+    background-position-x: -200%;
+  }
+}
+
+.skeleton {
+  background: $controller;
+  background: linear-gradient(
+    110deg,
+    $controller 8%,
+    $background 18%,
+    $controller 33%
+  );
+  border-radius: 5px;
+  background-size: 200% 100%;
+  animation: 1.5s shine linear infinite;
+  height: 100%;
+}
