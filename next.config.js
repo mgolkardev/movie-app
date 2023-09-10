@@ -1,4 +1,12 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
+/**
+ * @format
+ * @type {import('next').NextConfig}
+ */
 
-module.exports = nextConfig
+const nextConfig = {
+  images: {
+    domains: ["static.filmnet.ir"],
+  },
+};
+
+module.exports = nextConfig;
