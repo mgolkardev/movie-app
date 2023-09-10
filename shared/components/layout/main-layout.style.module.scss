@@ -1,0 +1,17 @@
+@import "shared/themes/colors";
+@import "shared/themes/dimensions";
+
+.app {
+  &__header {
+    background-color: $controller;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 $padding-normal;
+  }
+
+  &__main {
+    padding: $padding-normal;
+  }
+}

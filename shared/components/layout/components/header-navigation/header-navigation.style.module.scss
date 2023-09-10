@@ -1,0 +1,15 @@
+@import "shared/themes/colors";
+
+.headerNavigation {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  a {
+    color: $secondary;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
