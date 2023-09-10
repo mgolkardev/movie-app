@@ -47,3 +47,7 @@ NEXT_PUBLIC_API_BASE_URL=
 در این پروژه سعی شده تمامی موارد بسیار ساده و بدون نصب پکیج های اضافی انجام شود. پروژه بصورت Responsive طراحی شده و با تغییر اندازه صفحه می توانید موارد پیاده سازی شده را مشاهده نمایید. قطعا این پروزه ماننده هر پروژه دیگری جای بهبود دارد و این تازه شروع کار است!
 
 # Screenshots
+
+![alt text](https://s6.uupload.ir/files/movie-1_2mb2.png)
+![alt text](https://s6.uupload.ir/files/movie-2_2xr.png)
+![alt text](https://s6.uupload.ir/files/movie-3_ago.png)
