@@ -4,5 +4,4 @@ export interface MovieState {
   status?: "Fetching" | "Fetched" | "FetchFailed";
   data: MovieDto[];
   total: number;
-  nextPage: number;
 }

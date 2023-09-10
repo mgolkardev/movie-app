@@ -1,3 +1,5 @@
+/** @format */
+
 "use client";
 
 import { Link, Grid, Progress, Skeleton } from "shared/components";
@@ -21,7 +23,7 @@ export const MoviesModule = () => {
       return 8;
     }
 
-    if (screenSize === "tablet"||screenSize === "medium") {
+    if (screenSize === "tablet" || screenSize === "medium") {
       return 6;
     }
 
@@ -73,7 +75,9 @@ export const MoviesModule = () => {
             </Link>
           );
         }}
-        loadMore={() => MoviesActions.getMovies(dispatch)}
+        loadMore={(count, offset) =>
+          MoviesActions.getMovies(dispatch, count, offset)
+        }
       />
     </div>
   );

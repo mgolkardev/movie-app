@@ -8,25 +8,1652 @@
   "response": {
     "data": [
       {
-        "rate": 94.0,
-        "age_restriction": "not_set",
+        "rate": 98.0,
+        "age_restriction": "eighteen",
         "categories": [
           {
-            "type": "genre",
-            "items": [{ "title": "معمایی" }, { "title": "درام" }]
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              }
+            ]
           },
           {
             "type": "default",
             "items": [
-              { "title": "اختصاصی فیلم‌نت" },
-              { "title": "سریال" },
-              { "title": "ایرانی" },
-              { "title": "خانوادگی" }
+              {
+                "title": "سریال"
+              },
+              {
+                "title": "خارجی"
+              }
             ]
           },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ترسناک"
+              }
+            ]
+          }
         ],
-        "published_at": "2023-09-03T04:37:19",
+        "published_at": "2023-09-10T08:54:59",
+        "status": "active",
+        "title": "مردگان متحرک: دریل دیکسون",
+        "page_title": "سریال مردگان متحرک: دریل دیکسون",
+        "slug": "The-Walking-Dead-Daryl-Dixon-2023",
+        "summary": "<strong>سریال مردگان متحرک: دریل دیکسون</strong>، شخصی به نام دریل دیکسون را دنبال می\u200cکند که&nbsp;از خواب بیدار می\u200cشود و خود را جایی در قاره اروپا می\u200cبیند و حالا در تلاش است آنچه را که اتفاق افتاده برای خودش بازسازی کند.&nbsp;<br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/02/68/02683a3015e442f6964b9eb3a2f22099.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/94/c1/94c1f79d62754f938f54197b7fd4a70b.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/04/47/0447cf911d72475d8c42f52271d7c87c.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/33/65/3365f387110e4aac8dbe07f46c184750.jpeg"
+        },
+        "type": "series",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 93,
+        "original_name": "The Walking Dead: Daryl Dixon",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "1933350e-6b8e-4210-a84f-992c8068e30e",
+        "short_id": "scWo5xA"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "جنایی"
+              },
+              {
+                "title": "درام"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " آلمان "
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-10T07:34:37",
+        "status": "active",
+        "title": "ضربه کاری سریع",
+        "page_title": "فیلم ضربه کاری سریع",
+        "slug": "Short-Sharp-Shock-1998",
+        "summary": "<strong>فیلم ضربه کاری سریع</strong>، داستان سه دوست جوان است که در هامبورگ زندگی می\u200cکنند، اما آنها در جامعه خلافکاری&nbsp;با باند مافیایی خطرناکی درگیر می\u200cشوند.&nbsp;<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/0d/46/0d46a85ef231471faf7ace442efad227.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/aa/4d/aa4dd3c9dd7c46f8bc32619d09683aef.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/79/03/7903e26d691847ea950981ab7af2daea.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/f6/71/f6715909f2574c88b7b39fcdae251a86.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 1998,
+        "imdb_rank_percent": 72,
+        "original_name": "Short Sharp Shock",
+        "duration": "01:26:36",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "73361637-3b89-47cd-9264-44c1450c796e",
+        "short_id": "sc99arQ"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " کره جنوبی "
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              },
+              {
+                "title": "اکشن"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "سریال"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              },
+              {
+                "title": "کره\u200cای"
+              },
+              {
+                "title": "خارجی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-10T06:55:09",
+        "status": "active",
+        "title": "محرک",
+        "page_title": "سریال محرک",
+        "slug": "Moving-2023",
+        "summary": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong>سریال محرک،</strong> داستان زندگی پرماجرای چند دانش\u200cآموز دبیرستانی به ظاهر عادی است که نیروهای ویژه\u200cای را از والدین خود به ارث برده\u200cاند و قدرت\u200cهای عجیبی دارند اما باید آنها را مخفی نگه دارند.<br><strong> صدا: دوبله اختصاصی و زبان اصلی <br>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/19/28/192835567d834d439a3af8782289fcb1.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/21/88/2188b65fa2e345f080f3d43233949403.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/40/39/403983c99ec641769bae59e44776c591.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/75/e6/75e6515fabd843748bf9059198d36c51.jpeg"
+        },
+        "type": "series",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 86,
+        "original_name": "Moving",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "b2dd49f7-a745-47d1-a5d6-5a3b6dc508d6",
+        "short_id": "sczo195"
+      },
+      {
+        "rate": 60.0,
+        "age_restriction": "thirteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "بیوگرافی"
+              },
+              {
+                "title": "کمدی"
+              },
+              {
+                "title": "درام"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "دوبله اختصاصی"
+              },
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " انگلستان "
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-10T04:12:09",
+        "status": "active",
+        "title": "بانک دیو",
+        "page_title": "فیلم بانک دیو",
+        "slug": "Bank-of-Dave-2023",
+        "summary": "<strong>فیلم بانک دیو</strong>، داستان میلیونر خودساخته\u200cای به نام فیشویک است که تصمیم می\u200cگیرد برای محله کوچکشان، یک بانک اختصاصی به نام خودش تاسیس کند، اما با مشکلات و موانع زیادی روبرو می\u200cشود.<br><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong>صدا: دوبله اختصاصی و زبان اصلی&nbsp;<br><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> زیرنویس: انگلیسی اختصاصی<br><br></strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/9a/74/9a749bda8d284101afa30ec27a2e24ae.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/9e/34/9e3496b7d1a74b7caf7e0e3f445b930f.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/9a/ec/9aec38042c8247ad8ee9ab296a370d67.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/24/86/2486b23e522c4ac8b866e323b7ed11bc.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 71,
+        "original_name": " Bank of Dave",
+        "duration": "01:45:02",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "530ce142-8669-4841-a554-2235132acd80",
+        "short_id": "sc2lpPp"
+      },
+      {
+        "rate": 90.0,
+        "age_restriction": "eighteen",
+        "categories": [
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " آلمان "
+              },
+              {
+                "title": "آمریکا"
+              },
+              {
+                "title": " انگلستان "
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ترسناک"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-10T04:11:08",
+        "status": "active",
+        "title": "آخرین سفر دمتر",
+        "page_title": "فیلم آخرین سفر دمتر",
+        "slug": " The-Last-Voyage-of-the-Demeter-2023",
+        "summary": "<strong>فیلم آخرین سفر دمتر</strong>، کشتی تجاری دمتر با پنجاه جعبه چوبی راهی لندن می\u200cشود، اما در آنجا با دراکولای ترسناکی روبرو می\u200cشوند که باید تمام تلاششان را برای زنده ماندن به کار بگیرند.&nbsp;<br><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong>صدا: دوبله اختصاصی و زبان اصلی&nbsp;<br>زیرنویس: فارسی اختصاصی و انگلیسی</strong><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><br>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/e6/06/e606d4c9f82e4adea25add96ced07a3a.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/6c/ee/6ceec10923724edba632c71968d24a24.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/62/58/62586883f07b44b4b34eb4295e69025d.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/23/f3/23f37a32a0c8444996e1cce9efdc406b.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 63,
+        "original_name": " The Last Voyage of the Demeter",
+        "duration": "01:58:06",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "cefef768-a9c4-4203-9418-aa780f190899",
+        "short_id": "sc99a4r"
+      },
+      {
+        "rate": 80.0,
+        "age_restriction": "eighteen",
+        "categories": [
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "سریال"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "جنایی"
+              },
+              {
+                "title": "درام"
+              },
+              {
+                "title": "معمایی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-10T03:34:48",
+        "status": "active",
+        "title": "پناهگاه هارلان کوبن",
+        "page_title": "سریال پناهگاه هارلان کوبن",
+        "slug": "Harlan-Coben's-Shelter-2023",
+        "summary": "<strong>سریال پناهگاه هارلان کوبن</strong>، داستان پسر نوجوانی است که بعد از اینکه پدرش را از دست می\u200cدهد و مادرش در یک مرکز توانبخشی زندگی می\u200cکند، مجبور می\u200cشود نزد یکی از اقوامشان در نیوجرسی زندگی کند، اما متوجه می\u200cشود پدرش زنده است و همه چیز برایش شکل دیگری می\u200cگیرد.&nbsp;<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/03/f0/03f037f1f8af4476adb4e39a07cce330.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/b0/47/b047bbde92164045aecb0e8987bc14ff.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/45/87/4587cf88da9c47069c52ffe1a3a1664e.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/7b/f0/7bf0de04e7a44293a21cf65848ed47ac.jpeg"
+        },
+        "type": "series",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 66,
+        "original_name": "Harlan Coben's Shelter",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "7499b8ca-90af-41cf-b780-d99af147b2dc",
+        "short_id": "scADv8W"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "not_set",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              },
+              {
+                "title": "درام"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "سریال"
+              },
+              {
+                "title": "کره\u200cای"
+              },
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " کره جنوبی "
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-09T09:35:35",
+        "status": "active",
+        "title": "رای کشنده",
+        "page_title": "سریال رای کشنده",
+        "slug": "The-Killing-Vote-2023",
+        "summary": "<strong>سریال رای کشنده،</strong> داستان جنایتکار شروری است که از مجازات اعدام فرار می\u200cکند، اما تمام شهروندان بالای 18 سال از طرف فرد مرموزی پیامی دریافت می\u200cکنند که آیا مایل هستند که آن شخص اعدام شود وا اگر آرا بیشتر از 50 درصد شود آن شخص توسط او کشته خواهد شد.<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong> زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/72/24/7224cac280a34a40b654191f51a4871e.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/02/89/028939311e294db99b2d48636f6e9987.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/a6/0c/a60c0c3ae9fb49aeb90003eae29bf8bb.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/88/e2/88e28709a8944ca4a76f0ce65e8826b5.jpeg"
+        },
+        "type": "series",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 79,
+        "original_name": "The Killing Vote",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "74d0adfc-f941-4b4f-a1dd-b941d7dbaad3",
+        "short_id": "sckAPRn"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "thirteen",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "کودک و نوجوان"
+              },
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              },
+              {
+                "title": "انیمیشن"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " ژاپن "
+              },
+              {
+                "title": " کانادا "
+              },
+              {
+                "title": "آمریکا"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              },
+              {
+                "title": "اکشن"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-09T06:58:37",
+        "status": "active",
+        "title": "لاک پشت های نینجا جهش یافته نوجوان: آشوب جهش یافته",
+        "page_title": "انیمیشن لاک پشت های نینجا جهش یافته نوجوان: آشوب جهش یافته",
+        "slug": "Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-2023",
+        "summary": "<strong>انیمیشن لاک پشت های نینجا جهش یافته نوجوان: آشوب جهش یافته</strong>، داستان چهار لاک\u200cپشت است&nbsp;که زندگی خود را صرف یادگیری نینجیتسو کرده\u200cاند و برای دوری&nbsp;از دنیای انسان\u200cها، سال\u200cها در فاضلاب\u200cهای شهر نیویورک پناه گرفته\u200c بودند، اما زمانی که دوست جدیدشان آپریل به آنها کمک می\u200cکند، راهی سطح زمین می\u200cشوند تا به عنوان یک نوجوان عادی پذیرفته شوند و با ارتشی از جهش یافته\u200cها مقابله کنند.&nbsp;<br><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong>صدا: دوبله اختصاصی و زبان اصلی<br></strong><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/b3/82/b3829f6603c24e65adf4b82a67217a27.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/a0/cd/a0cd57b4f54042b681bcec41b1108f94.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/e7/b6/e7b6520e8f794adfa6abbb69fd1b3306.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/72/6a/726a9f3db345487cacc2dd8a21593ad9.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 75,
+        "original_name": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+        "duration": "01:39:24",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "5f8182d1-1834-4a72-958f-6141c57b72de",
+        "short_id": "scxLKJ7"
+      },
+      {
+        "rate": 98.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "درام"
+              },
+              {
+                "title": "معمایی"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-09T06:11:26",
+        "status": "active",
+        "title": "88",
+        "page_title": "فیلم 88",
+        "slug": "88-2022",
+        "summary": "<strong>فیلم 88</strong>، داستان رسوایی مالی کمپین انتخاباتی یکی از نامزدهای انتخابات ریاست جمهوری آمریکاست که وقتی مدیر مالی شروع به بررسی کمک\u200cهای مالی و اهدایی می\u200cکند، پرده از برخی مسائل مشکوک برمی\u200cدارد.&nbsp;<br><strong>زیرنویس: فارسی اختصاصی و انگلیسی &nbsp;</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/ec/bd/ecbd07ace3434b75aed3a206357e9b1a.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/20/6d/206dbb90e44542d49034ca20d240a70d.jpg"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/bb/e6/bbe6b9988b1e45fe98e0ee26e98a6086.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 2022,
+        "imdb_rank_percent": 49,
+        "original_name": "88",
+        "duration": "02:01:10",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "04f3298f-c936-4362-92cf-3715405ef627",
+        "short_id": "sc99awQ"
+      },
+      {
+        "rate": 93.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " آلمان "
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-05T09:45:53",
+        "status": "active",
+        "title": "شیرجه",
+        "page_title": "فیلم شیرجه",
+        "slug": "The-Dive-2023",
+        "summary": "<strong>فیلم شیرجه،</strong>&nbsp;داستان دو خواهر است که در مکانی زیبا و دورافتاده غواصی می\u200cکنند، اما وقتی&nbsp;یکی از آنها در عمق 28 متری مورد اصابت سنگ قرار می\u200cگیرد، تحت شرایط سخت دما و اکسیژن باید برای زنده ماندن بجنگند تا خواهرش چاره\u200cای پیدا کند.&nbsp;<br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/6f/e8/6fe88d8b34cc4a96a9b6bb251e4046f0.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/07/df/07dff9f71c0e4827a8f3ad380a09371e.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/c9/08/c908a71ba01f436289cfdb0cb1d3e57d.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/50/1d/501d4b491de04fdb8a55416b6000f432.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 56,
+        "original_name": "The Dive",
+        "duration": "01:28:47",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "a8cc31e9-bc2b-4725-bf6d-f3e5ba28d71e",
+        "short_id": "sc3jEPk"
+      },
+      {
+        "rate": 98.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "سریال"
+              },
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "مینی سریال"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "مستند"
+              },
+              {
+                "title": "ماجرایی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-05T08:59:54",
+        "status": "active",
+        "title": "زندگی تا 100: اسرار مناطق آبی",
+        "page_title": "مستند زندگی تا 100: اسرار مناطق آبی",
+        "slug": "Live-to-100-Secrets-of-the-Blue-Zones-2023",
+        "summary": "<p><strong style=\"text-align: left;\">مستند زندگی تا 100: اسرار مناطق آبی</strong><span style=\"text-align: left;\">، ماجراجویی جذاب نویسنده\u200cای به نام دن بیوتنر است که بیننده را به </span><span style=\"text-align: left;\">سراسر جهان می\u200cبرد</span><span style=\"text-align: left;\">&nbsp;و پنج جامعه منحصر</span><span style=\"text-align: left;\">به\u200c</span><span style=\"text-align: left;\">فرد را به نمایش می\u200cگذارد</span><span style=\"text-align: left;\">&nbsp;که در آن مردم زندگی فوق العاده پر جنب و جوشی دارند.&nbsp;<br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong></span><strong><br></strong>&nbsp;</p>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/78/67/78671245b3024c56875d52e5bb4670ac.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/7b/0b/7b0b23a2d5574aa69004bf80d07b9748.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/f0/35/f0359fd63c4d44a1b115192d36adbbfb.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/44/de/44de98ef74484738979bc369e4b703bd.jpeg"
+        },
+        "type": "series",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 82,
+        "original_name": "Live to 100: Secrets of the Blue Zones",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "ecc9a387-893a-4474-ae73-016e9582fd96",
+        "short_id": "sc1mjKp"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "eighteen",
+        "categories": [
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " ایسلند "
+              },
+              {
+                "title": " آلمان "
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-05T08:58:49",
+        "status": "active",
+        "title": "عملیات ناپلئون",
+        "page_title": "فیلم عملیات ناپلئون",
+        "slug": "Operation-Napoleon-2023",
+        "summary": "<strong>فیلم عملیات ناپلئون</strong>، داستان وکیلی است که به قتلی که هیچگاه مرتکب نشده متهم می\u200cشود و ناخواسته وارد یک توطئه بین\u200cالمللی می\u200cشود. تنها راه نجات او،&nbsp;پیدا کردن هلیکوپتر بازمانده\u200cای از جنگ جهانی دوم است که در ایسلند پیدا شده.<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/6c/30/6c30284416014146981e51535b3a1c5f.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/ac/31/ac317f5bed5544098cfa7c9514c492d4.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/cb/5e/cb5e29fafd7643b4a428d9bf22e52ca4.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/da/32/da32d36ae9094cc9acef60a824f66edd.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 61,
+        "original_name": "Operation Napoleon",
+        "duration": "01:51:22",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "d2c49f72-2b8e-48f1-9f17-322c0141c382",
+        "short_id": "scQk137"
+      },
+      {
+        "rate": 68.0,
+        "age_restriction": "eighteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "اکشن"
+              },
+              {
+                "title": "ترسناک"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-05T08:39:20",
+        "status": "active",
+        "title": "سیل",
+        "page_title": "فیلم سیل",
+        "slug": "The-Flood-2023",
+        "summary": "<strong>فیلم سیل</strong>، طی یک طوفان شدید در&nbsp;لوئیزیانا،گروهی از زندانیان تصمیم می\u200cگیرند از زندان فرار کنند، اما با خطر تمساح\u200cهای غول\u200cپیکر مواجه می\u200cشوند.<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->&nbsp;<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br><strong>زیرنویس: فارسی اختصاصی و انگلیسی<br></strong><br>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/f6/49/f6490f8ac355432895b6eeeef821fc27.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/48/8c/488c85c54f4c42ba97231a3bed4f590c.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/7c/5a/7c5aaa2b76034cd1a54935e52a5095e6.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/77/6e/776e5ed07d244ca69255d5c2428ed765.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 31,
+        "original_name": "The Flood",
+        "duration": "01:26:55",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "5a924b8c-0761-4ca2-99ae-da81145e2ee3",
+        "short_id": "scOy43p"
+      },
+      {
+        "rate": 80.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "رومانی"
+              },
+              {
+                "title": " یونان "
+              },
+              {
+                "title": " فرانسه "
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              },
+              {
+                "title": "درام"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-05T03:04:19",
+        "status": "active",
+        "title": "به سمت شمال",
+        "page_title": "فیلم به سمت شمال",
+        "slug": "To-the-North-2022",
+        "summary": "<strong>فیلم&nbsp;به سمت شمال</strong>، داستان یک ملوان مذهبی فیلیپینی است که روی عرشه کشتی آتلانتیک شمالی مشغول به کار است،&nbsp;تا اینکه یک مسافر رومانیایی را که پشت چند کانتینر پنهان شده را پیدا می\u200cکند، اما به جای معرفی کردن او تصمیم می\u200cگیرد به او کمک کند.<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong>صدا: دوبله اختصاصی و زبان اصلی<br></strong><strong>زیرنویس: انگلیسی اختصاصی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/2a/87/2a87fe6359b8431c8846511608a1787f.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/a5/3d/a53d7404000c4bdc9428b0cfc63a460c.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/b7/15/b715f9f4ed6a45f0b037d01747ce557b.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/25/0c/250cb8dafb41404eac360f045d8e6255.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "latest",
+        "year": 2022,
+        "imdb_rank_percent": 65,
+        "original_name": "To the North",
+        "duration": "01:56:22",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "3d66560d-229b-48e8-b5d1-5027d841698d",
+        "short_id": "scmAmp8"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "thirteen",
+        "categories": [
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " استرالیا "
+              },
+              {
+                "title": "آمریکا"
+              },
+              {
+                "title": " انگلستان "
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ورزشی"
+              },
+              {
+                "title": "بیوگرافی"
+              },
+              {
+                "title": "درام"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-04T06:58:49",
+        "status": "active",
+        "title": "ضربه مغزی",
+        "page_title": "فیلم ضربه مغزی",
+        "slug": "Concussion-2015",
+        "summary": "<strong>فیلم ضربه مغزی</strong>، داستان پزشکی به نام&nbsp;بنت اومالو است، که تحقیقات پی در پی او&nbsp;در مورد ضربات مغزی که مرتب به&nbsp;بازیکنان وارد می\u200cشود، باعث کشف حقایق تکان\u200cدهنده\u200cای در مورد آسیب مغزی می\u200cشود.<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/de/ea/deea839e6ca944f983f376833ba1ee86.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/c8/15/c8159673026f4907bcfe8b8487783866.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/e3/23/e323ef43af874f5b889f7c2283323069.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/51/64/516415e8ebfb49d4af397db7aaecf03b.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 2015,
+        "imdb_rank_percent": 71,
+        "original_name": "Concussion",
+        "duration": "01:59:05",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "49482d2e-d55b-457e-a932-ac8d81d94239",
+        "short_id": "scaWQGn"
+      },
+      {
+        "rate": 98.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "جنایی"
+              },
+              {
+                "title": "اکشن"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              },
+              {
+                "title": "هندی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " هند "
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-04T03:57:25",
+        "status": "active",
+        "title": "پور توژیل",
+        "page_title": "فیلم هندی پور توژیل",
+        "slug": "Por-Thozhil-2023",
+        "summary": "<strong>فیلم پور توژیل</strong>، داستان یک پلیس تازه کار اما باهوش است که باید بر ترس\u200cهایش غلبه کند تا در اولین پرونده\u200cاش که دستگیری یک قاتل زنجیره\u200cای است، موفق شود اما چالش همراهی با یک افسر ارشد کمی ماموریتش را سخت\u200cتر می\u200cکند.&nbsp;<br><strong>صدا: دوبله اختصاصی و زبان اصلی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/30/73/3073d543ea3643d8bd569babfffafe3d.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/e8/58/e858c87ae47246619c458ad3be394a63.jpg"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/15/4f/154f8f1a4f034ef488e45790b9497f89.jpeg"
+        },
+        "type": "single_video",
+        "flag": "exclusive_dub",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 81,
+        "original_name": "Por Thozhil",
+        "duration": "02:24:00",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "c12c83ff-f446-4980-90f3-ebdf3a53c3d3",
+        "short_id": "scxLKW7"
+      },
+      {
+        "rate": 98.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "سریال"
+              },
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              },
+              {
+                "title": "کمدی"
+              },
+              {
+                "title": "اکشن"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " ژاپن "
+              },
+              {
+                "title": " انگلستان "
+              },
+              {
+                "title": "آمریکا"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-04T03:23:41",
+        "status": "active",
+        "title": "وان پیس",
+        "page_title": "سریال وان پیس",
+        "slug": "One-Piece-2023",
+        "summary": "<strong>سریال وان پیس</strong>، ماجراجویی گروهی از دزدان دریایی به همراه کاپیتان\u200c جوان\u200cشان را به تصویر می\u200cکشد که برای رسیدن به جایگاه پادشاه دزدان دریایی و کشف گنج اسطوره\u200cای معروف به وان پیس راهی سفر خطرناکی می\u200cشوند.&nbsp;<br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/9e/9a/9e9af3a0795f479fb98e9166e497c38f.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/98/44/98445aee6b794b4ca12a8ffba77c7289.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/a6/bc/a6bc7ee97f1b42ef994b90270c13d048.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/85/7c/857cb54bb6134eb98663a813c10c0450.jpeg"
+        },
+        "type": "series",
+        "flag": "has_subtitle",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 82,
+        "original_name": "One Piece",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "6dca5337-26db-4c1e-9eac-12c8992e4ffc",
+        "short_id": "sc5QevO"
+      },
+      {
+        "rate": 73.0,
+        "age_restriction": "eighteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "اکشن"
+              },
+              {
+                "title": "جنایی"
+              },
+              {
+                "title": "ماجرایی"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-04T02:54:17",
+        "status": "active",
+        "title": "آدمکش",
+        "page_title": "فیلم آدمکش",
+        "slug": "The-Killer-2023",
+        "summary": "<strong>فیلم آدمکش</strong>، داستان یک قاتل سرد و منزوی است که بدون هیچ حس پشیمانی از کارهایش&nbsp;منتظر دستورات بعدی است، اما به مرور زمان متوجه می\u200cشود در حال از دست دادن عقلش است و همین موضوع وجدانش را بیدار می\u200cکند.",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/21/37/21377435196b46ca880d47d08af87534.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/36/a2/36a2d881330a48bf97efe072bd61924d.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/ea/76/ea769a0740964070bd03d8d149fa46d4.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/84/d8/84d8d2dbac854792a94e41ae9b1ed5b4.jpeg"
+        },
+        "type": "single_video",
+        "flag": "coming_soon",
+        "conditional_flag": "latest",
+        "year": 2023,
+        "imdb_rank_percent": 82,
+        "original_name": "The Killer",
+        "duration": "00:01:20",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "02e0a8c2-2632-4d61-bd0a-73dbe08c78b9",
+        "short_id": "sc6VbOz"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "thirteen",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "سریال"
+              },
+              {
+                "title": "حیات وحش"
+              },
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "\u200c ایران "
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "مستند"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-04T02:04:59",
+        "status": "active",
+        "title": "قلمرو گرگ سفید",
+        "page_title": "سریال قلمرو گرگ سفید",
+        "slug": "Kingdom-of-the-White-Wolf-2019",
+        "summary": "<strong>مستند قلمرو گرگ سفید</strong>، درباره&nbsp;رونان دونووان، عکاس و محقق نشنال جئوگرافیک است که برای بررسی زندگی پیچیده گرگ\u200cها و دیگر حیوانات خارق\u200cالعاده به قطب شمال سفر می\u200cکند، او در این سفر با زندگی گرگ\u200cهایی که در طول تابستان به شکار می\u200cپردازند&nbsp;تا در زمستان آسوده\u200c\u200dتر زندگی کنند، آشنا می\u200cشود.<br><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong>صدا: دوبله اختصاصی و زبان اصلی&nbsp;<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br>زیرنویس: انگلیسی اختصاصی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/3a/ed/3aedaef4fd074671989b792b8214d216.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/ff/57/ff57b8e0d2f24298b510d807e9110fa7.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/bd/4c/bd4c47fb828f4c88aa9fca60f7660d80.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/ed/e5/ede5f331da5b43b09e59bc0afee27232.jpeg"
+        },
+        "type": "series",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "latest",
+        "year": 2019,
+        "imdb_rank_percent": 80,
+        "original_name": "Kingdom of the White Wolf",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "bbf7134e-7707-4b9c-b522-bbf378f28813",
+        "short_id": "scWo52g"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "toddlers",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "کودک و نوجوان"
+              },
+              {
+                "title": "انیمیشن"
+              },
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " فرانسه "
+              },
+              {
+                "title": "لوکزامبورگ"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-03T10:15:28",
+        "status": "active",
+        "title": "نیکلاس کوچولو",
+        "page_title": "انیمیشن نیکلاس کوچولو",
+        "slug": "Little-Nicholas-2022",
+        "summary": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><b>انیمیشن نیکلاس کوچولو</b> داستان\u200cها و ماجراجویی\u200cهای پسری بازیگوش به نام نیکلاس است که قصه&nbsp;همکلاسی\u200cها، معلم و والدینش را دنبال می\u200cکند، اتفاقاتی که&nbsp;در پاریس دهه 60 میلادی رخ می\u200cدهد.<br><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong>صدا: دوبله اختصاصی و زبان اصلی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/59/fc/59fc88bd92cc4482a1052ff9ef710ac6.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/6b/3d/6b3d7e4070cf4e7384c4fad4c6a2532a.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/8a/26/8a26badc70cc481aa067bb40d184f704.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/ac/2d/ac2d32259e4b445199bdb6b9c37d71af.jpeg"
+        },
+        "type": "single_video",
+        "flag": "exclusive_dub",
+        "conditional_flag": "none",
+        "year": 2022,
+        "imdb_rank_percent": 73,
+        "original_name": "Little Nicholas",
+        "duration": "01:25:15",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "20eddde5-e766-4168-8989-1040887b60ed",
+        "short_id": "sc99EVD"
+      },
+      {
+        "rate": 84.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " کانادا "
+              },
+              {
+                "title": "آمریکا"
+              },
+              {
+                "title": " انگلستان "
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "درام"
+              },
+              {
+                "title": "معمایی"
+              },
+              {
+                "title": "اکشن"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-03T09:46:28",
+        "status": "active",
+        "title": "بلید رانر ۲۰۴۹",
+        "page_title": "فیلم بلید رانر ۲۰۴۹",
+        "slug": "Blade-Runner-2049-2017",
+        "summary": "<p><span style=\"text-align: left;\"><strong>فیلم بلید رانر</strong> ۲۰۴۹، داستان بلید رانر جوانی به نام کی است که راز قدیمی و مدفون شده\u200c\u200cای را کشف می\u200cکند که او را به سمت بلید رانر سابق هدایت می\u200cکند که 30 سال از ناپدید شدنش می\u200cگذرد.&nbsp;<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br><strong>زیرنویس: فارسی اختصاصی و انگلیسی<br></strong><br></span></p>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/e4/b0/e4b0a834d1f845f8ac92999e7ca415d1.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/0a/23/0a2346c976b545138f6c1ad77f349847.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/38/0e/380e12f49ea34629b1f6fd3640ab6a4e.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/b8/71/b871cc556e94437f93586f129cd5e259.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "none",
+        "year": 2017,
+        "imdb_rank_percent": 80,
+        "original_name": "Blade Runner 2049",
+        "duration": "02:38:39",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "02bc9ce9-267b-4761-af52-a888e052122c",
+        "short_id": "scVW7vP"
+      },
+      {
+        "rate": 96.0,
+        "age_restriction": "eighteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "جنایی"
+              },
+              {
+                "title": "اکشن"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " کانادا "
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-03T07:09:40",
+        "status": "active",
+        "title": "سرزمین تبهکاران",
+        "page_title": "فیلم سرزمین تبهکاران",
+        "slug": "Mob-Land-2023",
+        "summary": "<strong>فیلم سرزمین تبهکاران</strong>، داستان یک کلانتر محلی به نام بادی دیویس است که سعی می\u200cکند در شهر کوچکش امنیت و آرامش را برقرار کند، اما بعد از اینکه شلبی کانر از کارخانه دزدی می\u200cکند، شهر به خشونت کشیده می\u200cشود.<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br><strong>صدا: دوبله اختصاصی و زبان اصلی<br>زیرنویس: فارسی اختصاصی و انگلیسی</strong><br>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/60/1b/601bffa854094ecebbba0cb260e4096a.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/2b/13/2b13a273dcf449009f80eaffeb221a83.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/83/d2/83d28f2bd3154bf5b6b66fbed0feb90b.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/a0/6c/a06c957d19a9440882dc5035a2c783f3.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 56,
+        "original_name": "Mob Land",
+        "duration": "01:49:06",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "20c4e0ec-aa31-4a87-bc8c-3f346f566b33",
+        "short_id": "scP6GvB"
+      },
+      {
+        "rate": 96.0,
+        "age_restriction": "thirteen",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              },
+              {
+                "title": "اکشن"
+              },
+              {
+                "title": "ترسناک"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " چین "
+              },
+              {
+                "title": "آمریکا"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-03T01:52:12",
+        "status": "active",
+        "title": "مگ 2: گودال",
+        "page_title": "فیلم مگ 2: گودال",
+        "slug": "The-Meg-2-The-Trench-2023",
+        "summary": "<strong>فیلم مگ 2: گودال</strong>، داستان یک تیم تحقیقاتی شجاع و جسور است که برای کشف حقایق دریاها، به عمیق\u200cترین بخش\u200cهای آب نفوذ می\u200cکنند، اما با موجود عجیب و خطرناکی روبرو می\u200cشوند.&nbsp;<br><strong>صدا: دوبله اختصاصی و زبان اصلی&nbsp;<br>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/79/5e/795e3ea08d32441094970c50d4640e93.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/9c/bf/9cbf5317864944c18cdc5f96bd6dd4b4.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/d4/52/d4527fc658aa428aa90f6907d54b2dfa.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/1c/04/1c044599084647148f0b6f89d0fff313.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 54,
+        "original_name": "The Meg 2: The Trench",
+        "duration": "01:48:07",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "25432117-aaf3-4578-810b-fe45199b456e",
+        "short_id": "sc4o4Qo"
+      },
+      {
+        "rate": 93.0,
+        "age_restriction": "not_set",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "معمایی"
+              },
+              {
+                "title": "درام"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "اختصاصی فیلم\u200cنت"
+              },
+              {
+                "title": "سریال"
+              },
+              {
+                "title": "ایرانی"
+              },
+              {
+                "title": "خانوادگی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "\u200c ایران "
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-03T01:37:19",
         "status": "active",
         "title": "سریال مرداب",
         "page_title": "سریال مرداب",
@@ -46,14 +1673,900 @@
         },
         "type": "series",
         "flag": "coming_soon",
-        "conditional_flag": "latest",
+        "conditional_flag": "none",
         "year": 1402,
         "imdb_rank_percent": 0,
         "original_name": "The Marsh",
-        "video_files": { "primary": [], "trailers": [] },
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
         "video_content_access_approach": "none",
         "id": "b5e072e8-0e51-4da5-8cce-6169d32f127d",
         "short_id": "scganyJ"
+      },
+      {
+        "rate": 96.0,
+        "age_restriction": "not_set",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "هندی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              },
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " هند "
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "اکشن"
+              },
+              {
+                "title": "درام"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-02T11:26:13",
+        "status": "active",
+        "title": "2018",
+        "page_title": "فیلم هندی 2018",
+        "slug": "2018-2023",
+        "summary": "<strong>فیلم 2018</strong>، داستان فاجعه\u200cبار سیل در ایالت کرالای هند است که همه برای زنده ماندن تقلا می\u200cکنند و در این میان قهرمانانی پیدا می\u200cشوند که جان\u200cشان را به خاطر دیگران به خطر می\u200cاندازند.&nbsp;<br><strong>صدا: دوبله اختصاصی و زبان اصلی <br>زیرنویس: انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/a3/8d/a38ddf573cee49d6a1b17f75c27ef922.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/79/72/7972f138192e4da1a8cac27d0ca967e0.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/a5/f7/a5f7cb90c70d42239a0881b0825a0959.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/77/27/7727bf15e2e049af834b0765969e8874.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 84,
+        "original_name": "2018",
+        "duration": "02:28:05",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "a4444dec-c603-45d7-b4ac-9c89ab59d939",
+        "short_id": "scaWQ5J"
+      },
+      {
+        "rate": 80.0,
+        "age_restriction": "eighteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "کمدی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " فرانسه "
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-02T09:46:48",
+        "status": "active",
+        "title": "مدلین",
+        "page_title": "فیلم مدلین",
+        "slug": "Medellin-2023",
+        "summary": "<strong>فیلم مدلین</strong>، داستان مردی به نام ردا است که برای نجات جان برادرش از دست قاچاقچیان، گروهی را تشکیل می\u200cدهد تا او را&nbsp;از چنگال آدم\u200cربایان کلمبیایی آزاد کند.<br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/63/3a/633ab855c64f412db129a4c0273130c3.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/af/86/af869a20f2b94fa1bf9237e44d618e3d.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/0f/dc/0fdcb971b9624a72978c793cfad96c20.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/cc/70/cc709a74bfae402a95aebb7315255431.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 49,
+        "original_name": "Medellin",
+        "duration": "01:38:00",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "79288cc2-0eee-4294-a811-98b61ed03c7d",
+        "short_id": "scQk1v8"
+      },
+      {
+        "rate": 94.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "سریال"
+              },
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " انگلستان "
+              },
+              {
+                "title": "آمریکا"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "درام"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-09-02T06:21:40",
+        "status": "active",
+        "title": "پادشاه زمستان",
+        "page_title": "سریال پادشاه زمستان",
+        "slug": "The-Winter-King-2023",
+        "summary": "<p><strong>سریال پادشاه زمستان</strong>، داستان جنگجویی است که اکنون به یک راهب تبدیل شده و ماجرای به تاج و تخت رسیدن شاه آرتور را علیرغم عدم لیاقت و نامشروع بودنش را برای همه تعریف می\u200cکند.<br><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong>صدا: دوبله اختصاصی و زبان اصلی</strong><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong></p>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/2c/ac/2cacc3e351ac4f5399af4b69fb6c119b.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/6b/24/6b24e5b684b6411583e9b2fbd600018d.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/27/e8/27e88a5168254aabbd48541dfa3e5acb.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/a4/11/a4117e86f2844beb8749ca307a172d1d.jpeg"
+        },
+        "type": "series",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 50,
+        "original_name": "The Winter King",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "26f2d1ba-ef5e-4256-a8c5-c949128cf140",
+        "short_id": "scLyrAK"
+      },
+      {
+        "rate": 97.0,
+        "age_restriction": "twelve",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              },
+              {
+                "title": "اکشن"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-30T04:24:59",
+        "status": "active",
+        "title": "ایندیانا جونز و گردانه سرنوشت",
+        "page_title": "فیلم ایندیانا جونز و گردانه سرنوشت",
+        "slug": "Indiana-Jones-And-The-Dial-Of-Destiny-2023",
+        "summary": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong>فیلم ایندیانا جونز و گردانه سرنوشت،</strong> داستان یکی دیگر از ماجراجویی\u200cهای ایندیانا جونز، باستان شناس معروف است که باید با وجود زمان اندک، شیئی ارزشمند را پیدا کند تا از منحرف شدن مسیر تاریخ بشر جلوگیری کند. <br><b>صدا: دوبله اختصاصی و زبان اصلی <br>زیرنویس:فارسی اختصاصی و انگلیسی</b>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/91/40/91404a7380dc4226b10aa53c1c2f7552.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/6e/02/6e0288dde90749c488ef7a6d6e4707f6.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/e8/d1/e8d17b7c8a1e4f7ea2d925a2261e13c2.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/d5/04/d504406352e84e16b71e23fadb4659d1.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 68,
+        "original_name": "Indiana Jones and the Dial of Destiny",
+        "duration": "02:32:32",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "45d96c53-83ea-4e2a-9d60-00ef08a54be4",
+        "short_id": "scyvGJB"
+      },
+      {
+        "rate": 90.0,
+        "age_restriction": "eighteen",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "سریال"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "درام"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " کانادا "
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-29T23:19:47",
+        "status": "active",
+        "title": "خالص",
+        "page_title": "سریال خالص",
+        "slug": "Pure-2017",
+        "summary": "<strong>سریال خاص</strong>، داستان مردی به نام نوآ فانک است که به عنوان کشیش، فعالیتش را در شهر کوچکش آغاز می\u200cکند، او تلاش دارد تا مردمش را از شر قاچاقچیان مواد مخدر آزاد کند، اما این کار باعث عصبانیت اراذل می\u200cشود.<br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/ef/7f/ef7f8268092f426a8be6f251f9ac8233.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/d6/6d/d66da38261774648a4f8184cd4e50368.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/05/fd/05fd486c50db48028c69a22e46b6ea06.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/a4/e9/a4e94505e9a0490b9c66bec8cc210a35.jpeg"
+        },
+        "type": "series",
+        "flag": "has_subtitle",
+        "conditional_flag": "none",
+        "year": 2017,
+        "imdb_rank_percent": 70,
+        "original_name": "Pure",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "b77de44c-9303-4729-adf9-a5d978c34003",
+        "short_id": "sc99aRr"
+      },
+      {
+        "rate": 94.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "اکشن"
+              },
+              {
+                "title": "کمدی"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "کودک و نوجوان"
+              },
+              {
+                "title": "سریال"
+              },
+              {
+                "title": "انیمیشن"
+              },
+              {
+                "title": "انیمه"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " ژاپن "
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-28T12:37:04",
+        "status": "active",
+        "title": "باباهای رفیق",
+        "page_title": "انیمه باباهای رفیق",
+        "slug": "Buddy-Daddies-2023",
+        "summary": "<strong>انیمه باباهای رفیق</strong>، داستان دوستی دو شخصیت متفاوت، یک پیمانکار و یک قاتل حرفه\u200cای است که وقتی دختر چهار ساله یک رئیس مافیا در حادثه آتش\u200cسوزی هتلی سرگردان می\u200cشود، تصمیم می\u200cگیرند او را نجات دهند.&nbsp;<br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/35/58/35587bc215624c6094342c409e8b10ac.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/69/f7/69f72d54f55b4e04b312aa2b7fe6c78d.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/c4/06/c406aaa50b1343beae9a46f44867e128.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/54/01/54016baf6417484b98f1fbe49bd4ac09.jpeg"
+        },
+        "type": "series",
+        "flag": "has_subtitle",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 79,
+        "original_name": "Buddy Daddies",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "b90413da-49d7-410d-b3d2-0d2c1b2c5c9a",
+        "short_id": "scZxj35"
+      },
+      {
+        "rate": 77.0,
+        "age_restriction": "eighteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ترسناک"
+              },
+              {
+                "title": "معمایی"
+              },
+              {
+                "title": "درام"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " انگلستان "
+              },
+              {
+                "title": "آمریکا"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-28T10:03:11",
+        "status": "active",
+        "title": "تسخیر کشتی کوئین مری",
+        "page_title": "فیلم تسخیر کشتی کوئین مری",
+        "slug": "Haunting-of-the-Queen-Mary-2023",
+        "summary": "<strong>فیلم تسخیر کشتی کوئین مری</strong>، داستان ترسناک اتصال عجیبی بین زمان گذشته و حال است، حوادثی که سال 1938 طی یک سفر دریایی&nbsp;در شب هالوین برای خانواده کوئین مری اتفاق می\u200cافتد، با سرنوشت خانواده دیگری در زمان حال گره می\u200cخورد و حالا&nbsp;همه در جستجوی حقیقت هستند.&nbsp;<br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/97/e7/97e79b1fe71640e480f399b1effa5905.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/40/a5/40a591cd87a544668f9765c331edd0fa.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/94/29/9429e1fdc85e4e2ca8fe555c1f087660.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/74/e9/74e9c424dcf442149b268b57b67abf58.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 44,
+        "original_name": "Haunting of the Queen Mary",
+        "duration": "02:03:09",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "3669b3ca-d45d-4751-b0e0-a5623d7647e0",
+        "short_id": "sc6Vb6z"
+      },
+      {
+        "rate": 80.0,
+        "age_restriction": "eighteen",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "درام"
+              },
+              {
+                "title": "علمی تخیلی"
+              },
+              {
+                "title": "ترسناک"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              },
+              {
+                "title": " انگلستان "
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-28T10:02:08",
+        "status": "active",
+        "title": "افشاگر",
+        "page_title": "فیلم افشاگر",
+        "slug": "Tell-Tale-2009",
+        "summary": "<p><span><strong>فیلم افشاگر،</strong><span>&nbsp;</span>داستان مردی است که بعد از پیوند موفق قلب، ناخواسته در مسیری پر فراز و نشیب\nقرار می\u200cگیرد تا بفهمد چه کسی اهدا کننده قلبش را به قتل رسانده است. <br><b>زیرنویس:فارسی\nاختصاصی و انگلیسی</b></span></p>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/bf/ba/bfba5bf07e204784a6b71312a580d681.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/c8/8e/c88e85784b8e47d3b5bb0768be419d67.jpg"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/57/96/57962a1cf24d49f7b9ee50f522868601.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "none",
+        "year": 2009,
+        "imdb_rank_percent": 54,
+        "original_name": "Tell-Tale",
+        "duration": "01:31:47",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "7eba73c2-7f43-4137-b929-2b09d3b54195",
+        "short_id": "scxLKo7"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "معمایی"
+              },
+              {
+                "title": "درام"
+              },
+              {
+                "title": "جنایی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              },
+              {
+                "title": " انگلستان "
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-28T08:40:33",
+        "status": "active",
+        "title": "قتل در قطار سریع السیر شرق",
+        "page_title": "فیلم قتل در قطار سریع السیر شرق",
+        "slug": "Murder-on-the-Orient-Express-2017",
+        "summary": "<p><br></p><strong>فیلم قتل در قطار سریع السیر شرق</strong>، داستان قطاری است که به دلیل سقوط بهمن متوقف می\u200cشود، اما هیچکس نمی\u200cداند که همه چیز برای وقوع یک قتل برنامه\u200cریزی شده بود، و حالا هرکول پوآرو که شخصا در این قطار بوده باید برای حل این معما&nbsp;وارد عمل شود.&nbsp;<br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/f9/f7/f9f7aa9c3fad4a4fb530581c621433a7.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/cc/57/cc572105fcfa46a4a3aef49b4831f540.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/ff/39/ff39c244c95b46579dcdf58b9be771e7.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/af/23/af237688d4ec47bd8f8f685990a074c3.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "none",
+        "year": 2017,
+        "imdb_rank_percent": 65,
+        "original_name": "Murder on the Orient Express",
+        "duration": "01:53:00",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "62a0422b-276d-48bb-be8d-f68876ec57fd",
+        "short_id": "scY8RzE"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "seven",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "ماجرایی"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "سریال"
+              },
+              {
+                "title": "کودک و نوجوان"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              },
+              {
+                "title": "انیمیشن"
+              },
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-28T01:16:35",
+        "status": "active",
+        "title": "سگ های سازنده",
+        "page_title": "سریال سگ های سازنده",
+        "slug": "Pupstruction-2023",
+        "summary": "<strong>سریال سگ های سازنده</strong>، درباره سگ کوچک و باهوشی به نام فینی است که با وجود جثه کوچکی که دارد کارهای خلاقانه\u200cای انجام می\u200cدهد و به همه ثابت می\u200cکند برای انجام کارهای بزرگ نیاز به پنجه\u200cهای بزرگ ندارد.<br><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><strong>صدا: دوبله اختصاصی و زبان اصلی&nbsp;<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br></strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/e5/39/e5394bb15a044074870c1f8ea597081c.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/d8/71/d871c86eb2ae4399a7a053f4a2b30969.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/c0/d0/c0d09befac144ed4911167d6e51126e8.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/c6/73/c673e93089744c1794082a9b4a5d86cd.jpeg"
+        },
+        "type": "series",
+        "flag": "exclusive_dub",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 71,
+        "original_name": "Pupstruction",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "59b19f43-dbe0-486d-833d-bfd6c9ea8d9f",
+        "short_id": "scaWQwV"
+      },
+      {
+        "rate": 98.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "درام"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " انگلستان "
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-27T09:45:19",
+        "status": "active",
+        "title": "رج",
+        "page_title": "فیلم رج",
+        "slug": "Reg-2016",
+        "summary": "<strong>فیلم رج</strong>، داستان پدری به نام رج کیز است که پسرش را در جنگ عراق از دست داده&nbsp;و در سال 2005 با تونی بلر برای برنده شدن در انتخابات رقابت می\u200cکند.<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> <br><strong>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/2c/cd/2ccdc780353f4295a2829f725d90120e.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/93/45/9345468ef63444e49421adeb21615722.jpg"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/15/a6/15a63d9150204791bd03dba3308b49e7.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "none",
+        "year": 2016,
+        "imdb_rank_percent": 70,
+        "original_name": "Reg",
+        "duration": "01:28:38",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "3e1b2292-bda8-45d2-ad58-ba02a7596534",
+        "short_id": "sc1mjbR"
+      },
+      {
+        "rate": 100.0,
+        "age_restriction": "twelve",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "درام"
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " کره جنوبی "
+              },
+              {
+                "title": "آمریکا"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-27T04:08:57",
+        "status": "active",
+        "title": "زندگی های گذشته",
+        "page_title": "فیلم زندگی های گذشته",
+        "slug": "Past-Lives-2023",
+        "summary": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><b>فیلم زندگی های گذشته</b> داستان دو دوست دوران کودکی&nbsp; به نام نورا و هه سانگ است که&nbsp;بعد از مهاجرت خانواده نورا از کره ،آنها از هم بی\u200cخبر می\u200cمانند تا اینکه بیست و چهار سال بعد،&nbsp;بار دیگر همدیگر را ملاقات می\u200cکنند و درگیر عشق و اعتقاد به سرنوشت می\u200cشوند. <br><b>زیرنویس:فارسی اختصاصی و انگلیسی</b>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/39/30/39302beb8a8546379e31b23facf0a781.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/c7/ea/c7ea23e30a4941d48cb43af3f4287cc8.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/9a/d0/9ad083e3fb314c4cbdb65d9684334d1f.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/0b/58/0b586ab6a2234ffca88395eedc8bfb1a.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 83,
+        "original_name": "Past Lives",
+        "duration": "01:34:38",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "a8e8a077-8102-4f92-8328-840c5854dc3c",
+        "short_id": "sc8wQBZ"
+      },
+      {
+        "rate": 77.0,
+        "age_restriction": "three",
+        "categories": [
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "کودک و نوجوان"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              },
+              {
+                "title": "انیمیشن"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "آمریکا"
+              }
+            ]
+          },
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "کمدی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-26T10:20:05",
+        "status": "active",
+        "title": "اسنوپی تقدیم می\u200cکند: مارسی بی\u200cنظیر",
+        "page_title": "انیمیشن اسنوپی تقدیم می\u200cکند: مارسی بی\u200cنظیر",
+        "slug": "Snoopy-Presents-One-of-a-Kind-Marcie-2023",
+        "summary": "<strong>انیمیشن اسنوپی تقدیم می\u200cکند: مارسی بی\u200cنظیر</strong>، داستان مارسی مهربان است که تلاش می\u200cکند با&nbsp;ایده\u200cهای جذاب&nbsp;به دوستانش کمک کند به اهدافشان برسند،&nbsp;اما وقتی توجه همه را به خود جلب می\u200cکند، به اشتراک گذاشتن این ایده\u200cها تبدیل به یک چالش می\u200cشود.&nbsp;<br><strong>صدا: دوبله اختصاصی و زبان اصلی&nbsp;<br></strong><strong>زیرنویس:&nbsp;انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/38/4a/384a542fef4a4509b948724ccea62163.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/ca/6d/ca6d85bfe0544f2f8068acfb81ddaf2c.jpg"
+        },
+        "logo_image": {
+          "path": "https://static.filmnet.ir/images/8c/a1/8ca16a0b5e024b16b2e348e46538242e.png"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/4d/72/4d72118dd11f49cfa95a23a6c3497c18.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 69,
+        "original_name": "Snoopy Presents: One-of-a-Kind Marcie",
+        "duration": "00:39:03",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "78a3c85b-2551-4d5f-8520-4d3c87fd68bd",
+        "short_id": "sc3jEmA"
       },
       {
         "rate": 83.0,
@@ -62,16 +2575,36 @@
           {
             "type": "default",
             "items": [
-              { "title": "ایرانی" },
-              { "title": "فیلم کوتاه" },
-              { "title": "سینمای دیگر" }
+              {
+                "title": "ایرانی"
+              },
+              {
+                "title": "فیلم کوتاه"
+              },
+              {
+                "title": "سینمای دیگر"
+              }
             ]
           },
           {
             "type": "genre",
-            "items": [{ "title": "ماجرایی" }, { "title": "درام" }]
+            "items": [
+              {
+                "title": "ماجرایی"
+              },
+              {
+                "title": "درام"
+              }
+            ]
           },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "\u200c ایران "
+              }
+            ]
+          }
         ],
         "published_at": "2023-08-26T10:12:22",
         "status": "active",
@@ -95,32 +2628,120 @@
         "imdb_rank_percent": 0,
         "original_name": "Slight Pain",
         "duration": "00:27:51",
-        "video_files": { "primary": [], "trailers": [] },
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
         "video_content_access_approach": "none",
         "id": "aa399d84-5631-4dc8-85e3-53a8f291cd12",
         "short_id": "scvexKm"
       },
       {
-        "rate": 86.0,
+        "rate": 98.0,
+        "age_restriction": "fifteen",
+        "categories": [
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "اکشن"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": " هند "
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "items": [
+              {
+                "title": "خارجی"
+              },
+              {
+                "title": "هندی"
+              },
+              {
+                "title": "دوبله اختصاصی"
+              }
+            ]
+          }
+        ],
+        "published_at": "2023-08-26T09:15:22",
+        "status": "active",
+        "title": "مدال",
+        "page_title": "فیلم هندی مدال",
+        "slug": "Medal-2023",
+        "summary": "<strong>فیلم هندی مدال</strong>، داستان ورزشکار جوانی به نام راجویر سینگ است که&nbsp;همیشه رویای کسب مدال طلا داشت، اما همیشه اتفاقات غیرمنتظره\u200cای او را از رسیدن به هدفش باز می\u200cدارد و بدترین اتفاق زمانی بود که در&nbsp;یک&nbsp;تصادف، قدرت شنوایی\u200cاش را از دست داد و حالا باید به فکر راه تازه\u200cای باشد.&nbsp;<br><strong>صدا: دوبله اختصاصی و زبان اصلی&nbsp;<br>زیرنویس: فارسی اختصاصی و انگلیسی</strong>",
+        "cover_image": {
+          "path": "https://static.filmnet.ir/images/54/9d/549daaccd7694726a20931ed514803c5.jpg"
+        },
+        "poster_image": {
+          "path": "https://static.filmnet.ir/images/60/b7/60b7826acf1d489a9a11857d93a0f8c2.jpg"
+        },
+        "alter_cover_image": {
+          "path": "https://static.filmnet.ir/images/d8/04/d804ad42d21a424b9ce4390058c49600.jpeg"
+        },
+        "type": "single_video",
+        "flag": "has_subtitle, exclusive_dub",
+        "conditional_flag": "none",
+        "year": 2023,
+        "imdb_rank_percent": 65,
+        "original_name": "Medal",
+        "duration": "02:19:33",
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
+        "video_content_access_approach": "none",
+        "id": "c14786b4-56d2-4315-858b-cfa035d70399",
+        "short_id": "sceWZpV"
+      },
+      {
+        "rate": 85.0,
         "age_restriction": "not_set",
         "categories": [
           {
             "type": "default",
             "items": [
-              { "title": "فیلم کوتاه" },
-              { "title": "سینمای دیگر" },
-              { "title": "ایرانی" }
+              {
+                "title": "فیلم کوتاه"
+              },
+              {
+                "title": "سینمای دیگر"
+              },
+              {
+                "title": "ایرانی"
+              }
             ]
           },
-          { "type": "genre", "items": [{ "title": "درام" }] },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
+          {
+            "type": "genre",
+            "items": [
+              {
+                "title": "درام"
+              }
+            ]
+          },
+          {
+            "type": "territory",
+            "items": [
+              {
+                "title": "\u200c ایران "
+              }
+            ]
+          }
         ],
         "published_at": "2023-08-25T19:30:00",
         "status": "active",
-        "title": "خواب‌گردها",
-        "page_title": "فیلم خواب‌گردها",
+        "title": "خواب\u200cگردها",
+        "page_title": "فیلم خواب\u200cگردها",
         "slug": "Sleepwalkers-1396",
-        "summary": "<strong>فیلم خواب‌گردها</strong>، داستان پسر جوانی است که بخشی از خاطرات کودکی‌ و تنها&nbsp;همبازی‌اش&nbsp;در یک خانه قدیمی، در حالتی مانند خواب از جلو چشمش می‌گذرد.",
+        "summary": "<strong>فیلم خواب\u200cگردها</strong>، داستان پسر جوانی است که بخشی از خاطرات کودکی\u200c و تنها&nbsp;همبازی\u200cاش&nbsp;در یک خانه قدیمی، در حالتی مانند خواب از جلو چشمش می\u200cگذرد.",
         "cover_image": {
           "path": "https://static.filmnet.ir/images/96/b1/96b12e97b3534d4385929eb032f930c9.jpg"
         },
@@ -137,875 +2758,23 @@
         "imdb_rank_percent": 0,
         "original_name": "Sleepwalkers",
         "duration": "00:15:52",
-        "video_files": { "primary": [], "trailers": [] },
+        "video_files": {
+          "primary": [],
+          "trailers": []
+        },
         "video_content_access_approach": "none",
         "id": "cd0a7253-da28-4745-8bac-65d31983509d",
         "short_id": "scaWJbR"
-      },
-      {
-        "rate": 90.0,
-        "age_restriction": "toddlers",
-        "categories": [
-          {
-            "type": "default",
-            "items": [{ "title": "ایرانی" }, { "title": "سینمای دیگر" }]
-          },
-          { "type": "genre", "items": [{ "title": "درام" }] },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-08-23T05:32:09",
-        "status": "active",
-        "title": "پروا",
-        "page_title": "فیلم پروا",
-        "slug": "Parva-1398",
-        "summary": "فیلم پروا داستان خسرو امیری ۳۰ ساله است که&nbsp;شغل چندان مناسبی ندارد. او تلاش می‌کند که شرایط شغلی\nخودش را تغییر دهد. اما در این مسیر با مشکلاتی مواجه می‌شود.",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/be/7c/be7c7df6a3224a3ab0abffc0b0c9f4d8.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/3f/b2/3fb21d556b83488eabea547df57b45e6.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/32/e2/32e20e601e254c58a1bd6c43538a6710.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1398,
-        "imdb_rank_percent": 0,
-        "original_name": "Parva",
-        "duration": "01:14:28",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "0459c03d-a764-4484-927a-06a9d8ef0762",
-        "short_id": "scoQOeZ"
-      },
-      {
-        "rate": 91.0,
-        "age_restriction": "fifteen",
-        "categories": [
-          { "type": "default", "items": [{ "title": "ایرانی" }] },
-          { "type": "genre", "items": [{ "title": "درام" }] },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-08-22T06:02:37",
-        "status": "active",
-        "title": "یک عاشقانه ساده",
-        "page_title": "فیلم یک عاشقانه ساده",
-        "slug": "A-Simple-Love-Story-1390",
-        "summary": "<strong>فیلم یک عاشقانه ساده،</strong>&nbsp;داستان دختری به نام گندم است\nکه پدرش می‌خواهد او را به همسری پسر دوستش در بیاورد چرا که از سال‌ها پیش به\nآنها قول داده است، اما گندم می‌خواهد با عشق زندگی خودش ازدواج کند و زیر بار حرف\nپدرش نمی‌رود و این کار باعث دردسرهای زیادی برای او می‌شود. ",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/ff/86/ff8660b29ed4441fbcf6a002daa79683.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/7c/02/7c02400211b14835b6461f92d13bdb84.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/11/17/111716a6af024e3fb9ba585f9db980f0.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1390,
-        "imdb_rank_percent": 46,
-        "original_name": "A Simple Love Story",
-        "duration": "01:44:51",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "c0e44575-9bcf-4b7b-b618-03f457940fe1",
-        "short_id": "scdbL4x"
-      },
-      {
-        "rate": 90.0,
-        "age_restriction": "thirteen",
-        "categories": [
-          {
-            "type": "default",
-            "items": [{ "title": "سینمای دیگر" }, { "title": "ایرانی" }]
-          },
-          {
-            "type": "genre",
-            "items": [{ "title": "درام" }, { "title": "اجتماعی" }]
-          },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-08-19T03:01:02",
-        "status": "active",
-        "title": "تا ۱۰ بشمار",
-        "page_title": "فیلم تا ۱۰ بشمار",
-        "slug": "Count-TO-10-1400",
-        "summary": "<strong>فیلم تا ۱۰ بشمار</strong>،&nbsp;داستان زن و شوهری با اختلاف سنی زیاد است که با&nbsp;چالش جالب پیاده‌روی وارد یک مسابقه دونفره می‌شوند، به این ترتیب که&nbsp;تا شمارش ۱۰ تاجایی پیاده‌رویی کنند که یکی از آنها بیهوش شود و دیگری شرط عجیبی را به بازنده تحمیل کند.",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/65/c6/65c69989d89447e0910d829fdd754dad.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/53/98/539819707f024592bbd4c396d270a1a2.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/f5/ab/f5abdbeec7144f41873b2355acfabe82.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1400,
-        "imdb_rank_percent": 0,
-        "original_name": "Count TO 10",
-        "duration": "01:19:00",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "0865b55b-6e21-406a-9857-f897f78d1cf7",
-        "short_id": "scY8glp"
-      },
-      {
-        "rate": 92.0,
-        "age_restriction": "thirteen",
-        "categories": [
-          {
-            "type": "default",
-            "items": [{ "title": "ایرانی" }, { "title": "سینمای دیگر" }]
-          },
-          { "type": "genre", "items": [{ "title": "مستند" }] },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-08-19T02:25:43",
-        "status": "active",
-        "title": "سینه ما رکس",
-        "page_title": "مستند سینه ما رکس",
-        "slug": "cinema-rex-1399",
-        "summary": "٢٨ مرداد ١٣٥٧ ساعت ده شب آبادانِ گرم، يكباره داغ شد و گُر گرفت. سينما ركس‌اش با گوزنها بر پرده و بيش از ٦٠٠جان بي خبر از پشتِ پرده سوخت. ٤١سال بعد كه سراغى از بازماندگان گرفتيم تازه باورمان شد كه زمان هميشه هم حلال مشکلات نيست.<br>\nجاي سينما ركس در شهر خالي است، اما در سينه تك تك اهالي آبادان پر شده.",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/c2/99/c2996cd4824343119dfe60abc0a90fba.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/7b/7b/7b7be214a0c840d2a8e63d1917640a7f.jpg"
-        },
-        "logo_image": {
-          "path": "https://static.filmnet.ir/images/b2/7e/b27e20f2747d48c88a89cf291f799f82.png"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/c0/2e/c02e12332f5747d3acacacc57b466fdb.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1399,
-        "imdb_rank_percent": 0,
-        "original_name": "Cinema Rex",
-        "duration": "01:36:57",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "6507717e-f354-44ba-9d22-457765b4f8c7",
-        "short_id": "scbeVYd"
-      },
-      {
-        "rate": 92.0,
-        "age_restriction": "fifteen",
-        "categories": [
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] },
-          {
-            "type": "default",
-            "items": [{ "title": "ایرانی" }, { "title": "سینمای دیگر" }]
-          },
-          {
-            "type": "genre",
-            "items": [{ "title": "تاریخی" }, { "title": "مستند" }]
-          }
-        ],
-        "published_at": "2023-08-04T05:49:43",
-        "status": "active",
-        "title": "سرپتی ها",
-        "page_title": "مستند سَرپَتی‌ها",
-        "slug": "Sarpaty-Ha-1401",
-        "summary": "<p><strong>مستند سرپتی‌ها</strong>&nbsp;روایتی تاریخی و صادقانه از تحرکات&nbsp;مشروطه‌خواهی در غرب ایران، به‌ویژه کرمانشاه است که به زندگی و مرگ یارمحمدخان، از سرداران مشروطه می‌پردازد. روایتی دقیق برای به یادآوردنِ آزادی‌خواهانی که جانشان را در راه آزادی وطن از دست دادند، اما انگار&nbsp;فراموشی، سرنوشت ابدی همه‌ی آنها بوده است.</p>",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/25/95/25957e8840184bcca8b3d707c67ea3c7.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/ad/f4/adf40e1cd9464b62beae42dc3202fbb9.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/e5/ea/e5ea03ba54574186b4f9a72dea91ce3f.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1401,
-        "imdb_rank_percent": 0,
-        "original_name": "Sarpaty Ha",
-        "duration": "00:59:16",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "d44f8600-2a65-4cf0-a70a-f01f7237c418",
-        "short_id": "sc1m62b"
-      },
-      {
-        "rate": 90.0,
-        "age_restriction": "thirteen",
-        "categories": [
-          {
-            "type": "genre",
-            "items": [{ "title": "بیوگرافی" }, { "title": "مستند" }]
-          },
-          { "type": "default", "items": [{ "title": "ایرانی" }] },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-07-29T09:41:12",
-        "status": "active",
-        "title": "آقای کیمیایی",
-        "page_title": "مستند آقای کیمیایی",
-        "slug": "Aghaye-Kimiaye",
-        "summary": "<p><b>مستند آقای کیمیایی</b> نگاهی دارد به زندگی و آثار این\nکارگردان به‌نام و صاحب سبک سینمای ایران. در این مستند تلاش شده تا خالق دیالوگ‌های\nماندگار را بیشتر بشناسیم و سینما را از دید او ببینیم.</p>",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/d4/90/d4901569e4ac4308b7fb075f283538a9.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/fd/99/fd995e5708674e03b9ae18a92f4b0243.jpg"
-        },
-        "logo_image": {
-          "path": "https://static.filmnet.ir/images/74/cd/74cd1a4372904849957e3b0f0a5cd1ed.png"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/28/73/2873948b77bb4a938fd46832b8160866.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1383,
-        "imdb_rank_percent": 0,
-        "original_name": "Aghaye Kimiaye",
-        "duration": "01:20:15",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "bcf23f26-22d7-4bbf-9e03-cedf78d07e61",
-        "short_id": "scaWBLK"
-      },
-      {
-        "rate": 97.0,
-        "age_restriction": "adult",
-        "categories": [
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] },
-          { "type": "genre", "items": [{ "title": "درام" }] },
-          { "type": "default", "items": [{ "title": "ایرانی" }] }
-        ],
-        "published_at": "2023-07-26T08:33:25",
-        "status": "active",
-        "title": "دل شکسته",
-        "page_title": "فیلم دل شکسته",
-        "slug": "Heartbroken-1387",
-        "summary": "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--><strong>فیلم دل شکسته</strong>، داستان یک پسر مذهبی و یک دختر پولدار است که با هم در دانشگاه همکلاسی هستند اما از نظر فرهنگی، اعتقادی و شخصیتی تفاوت زیادی با هم دارند، تا اینکه استادشان آنها را مجبور می‌کند به صورت مشترک روی یک پروژه کار کنند و این اتفاق باعث می‌شود تا بتوانند شناخت بهتری از دنیای یکدیگر به دست بیاورند. <br><br>",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/3b/db/3bdb1c8285f7488bbb2b1312da199471.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/80/c7/80c7caf3a7644302a5ed013eed6a74e9.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/90/36/9036da41059543399d59bb447750a5e1.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1387,
-        "imdb_rank_percent": 56,
-        "original_name": "Heartbroken",
-        "duration": "01:42:59",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "60b35ec1-097c-46f3-b9ce-b5591cceef38",
-        "short_id": "scZb9G"
-      },
-      {
-        "rate": 94.0,
-        "age_restriction": "fifteen",
-        "categories": [
-          {
-            "type": "genre",
-            "items": [{ "title": "درام" }, { "title": "ماجرایی" }]
-          },
-          { "type": "default", "items": [{ "title": "ایرانی" }] },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-07-26T03:00:00",
-        "status": "active",
-        "title": "روز واقعه",
-        "page_title": "فیلم روز واقعه",
-        "slug": "The-fateful-day-1373",
-        "summary": "<strong>فیلم&nbsp;روز واقعه</strong>، داستان جوانی مسیحی به نام&nbsp;عبدالله  است که تازه به اسلام روی آورده است و در حالی که برای ازدواج با عشق دیرینه‌اش آماده می‌شود، در طول عروسی صداهایی&nbsp;می‌شنود که کمک می‌خواهند، بنابراین&nbsp;مراسم را ترک می‌کند تا به آنها کمک کند.",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/7d/ba/7dba76ac8bb14e39ac98418866ccb3b5.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/67/d0/67d02a66b8404c29bd2198988cb564f8.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/c4/e3/c4e3ddbadaf8430b8cfb7db26ed1f95f.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1373,
-        "imdb_rank_percent": 73,
-        "original_name": "The Fateful Day",
-        "duration": "01:44:00",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "718a141d-7d6e-4878-a756-6b970cc4a348",
-        "short_id": "scADLzW"
-      },
-      {
-        "rate": 94.0,
-        "age_restriction": "toddlers",
-        "categories": [
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] },
-          {
-            "type": "default",
-            "items": [
-              { "title": "ایرانی" },
-              { "title": "خانوادگی" },
-              { "title": "کودک و نوجوان" },
-              { "title": "اختصاصی فیلم‌نت" },
-              { "title": "سریال" }
-            ]
-          }
-        ],
-        "published_at": "2023-07-03T15:57:02",
-        "status": "active",
-        "title": "فوفو: مسافری از کامادو",
-        "page_title": "سریال فوفو: مسافری از کامادو",
-        "slug": "FoFo-Passenger-From-Kamado",
-        "summary": "داستان از جایی شروع می‌شود که موجود عجیب و بامزه‌ای به نام فوفو توسط نیروهای پلید پادشاه میتامیتا، از سیاره خودش دزدیده می‌شود. فوفو که هنگام انتقال به میتا میتا، از سفینه به بیرون پرتاب شده، به زمین سقوط می‌کند و از دودکش شومینه خانه‌ای سر در می‌آورد. این آغاز ماجراهای فوفو و آرزوهای عجیب بچه‌ها روی کره زمین است.<br>\n",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/c3/8d/c38d25572abd4b2190359f319339bd26.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/5b/5a/5b5a9ab79e3442a3b1eadf9f662d5a0e.jpg"
-        },
-        "logo_image": {
-          "path": "https://static.filmnet.ir/images/8b/b1/8bb1d050077648bea03f4b3576b059d8.png"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/cf/ed/cfed7d88175a4130918aa3dd57dfcd9a.jpeg"
-        },
-        "type": "series",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1402,
-        "imdb_rank_percent": 0,
-        "original_name": "FoFo: Passenger From Kamado",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "75f2039e-6b7c-4b04-ae2c-7214163b0c17",
-        "short_id": "sc8wPJd"
-      },
-      {
-        "rate": 92.0,
-        "age_restriction": "fifteen",
-        "categories": [
-          { "type": "genre", "items": [{ "title": "درام" }] },
-          { "type": "default", "items": [{ "title": "ایرانی" }] },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-07-03T03:03:19",
-        "status": "active",
-        "title": "آباجان",
-        "page_title": "فیلم آباجان",
-        "slug": "Aba-Jan-1395",
-        "summary": "<b>فیلم آباجان،</b> روایت زندگی خانواده‌ای پر جمعیت از طبقه متوسط در زنجان&nbsp;در\nدوران جنگ است. روزهای سختی که جنگ زندگی روزمره این خانواده حتی کودکانشان را\nدستخوش تغییر کرده و با ترس همراه است.",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/58/24/5824527277804a80baec9568c9aa1ac2.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/21/b9/21b9c45be3214d249a8c71f613353c4f.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/67/56/675654b803c0437db3897744ea44099e.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1395,
-        "imdb_rank_percent": 60,
-        "original_name": "Aba Jan",
-        "duration": "01:14:26",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "0295b568-973b-49fc-83af-827dbfc24aed",
-        "short_id": "scQk8l3"
-      },
-      {
-        "rate": 96.0,
-        "age_restriction": "seven",
-        "categories": [
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] },
-          { "type": "default", "items": [{ "title": "ایرانی" }] }
-        ],
-        "published_at": "2023-06-24T07:36:30",
-        "status": "active",
-        "title": "جشن شهرزاد",
-        "page_title": "جشن شهرزاد",
-        "slug": "Shahrzad-1395",
-        "summary": "<p><span>یک هفته پس از پایان فصل اول سریال شهرزاد، هواداران و ستاره‌های سینمای ایران، در\nجشن سریال شهرزاد، از بازیگران و عوامل این سریال تجلیل کردند. این جشن پر است از&nbsp;قدردانی، شادی و عشقی که خاطره سریال را جاودانه می‌کند و&nbsp;لحظه‌هایی ناب به یادگار می‌گذارد.</span></p>",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/92/45/92453c54da7e4d38b973dc8500d30b3d.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/c1/88/c188732d9f5b4fe291b905548acf69cf.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/e3/ce/e3ce71775a4648ff9d8b11e42c914b37.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1395,
-        "imdb_rank_percent": 0,
-        "original_name": "",
-        "duration": "02:18:23",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "a8ddd260-65ec-4cac-92db-59cac48b37ed",
-        "short_id": "scw468Z"
-      },
-      {
-        "rate": 92.0,
-        "age_restriction": "twelve",
-        "categories": [
-          {
-            "type": "default",
-            "items": [
-              { "title": "ایرانی" },
-              { "title": "کودک و نوجوان" },
-              { "title": "پشت صحنه" }
-            ]
-          },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-06-20T01:37:19",
-        "status": "active",
-        "title": "دیو و ماه پیشونی - پشت صحنه",
-        "page_title": "پشت صحنه دیو و ماه پیشونی",
-        "slug": "The-Demon-And-The-Forehead-Moon-BTS",
-        "summary": "پشت صحنه سریال دیو و ماه پیشونی به کارگردانی حسین قناعت و تهیه کنند‌گی مهدی یاری",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/da/b5/dab51df35a8545dd9035a8531746b2cb.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/9d/15/9d1562fd50bf4faf8a1af93bcb381b52.jpg"
-        },
-        "logo_image": {
-          "path": "https://static.filmnet.ir/images/5b/da/5bda105b766c44a0a2bb3ba0a57869cf.png"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/52/e8/52e8d40a609840f9b9b6effae0376b88.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1401,
-        "imdb_rank_percent": 0,
-        "original_name": "The Demon And The Forehead Moon BTS",
-        "duration": "00:31:30",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "22f9b547-72f1-4e44-8553-bf298ec13f29",
-        "short_id": "scoQ7v1"
-      },
-      {
-        "rate": 95.0,
-        "age_restriction": "eighteen",
-        "categories": [
-          {
-            "type": "default",
-            "items": [{ "title": "ایرانی" }, { "title": "سریال" }]
-          },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] },
-          {
-            "type": "genre",
-            "items": [
-              { "title": "جنایی" },
-              { "title": "تاریخی" },
-              { "title": "درام" }
-            ]
-          }
-        ],
-        "published_at": "2023-06-13T23:38:46",
-        "status": "active",
-        "title": "شهرزاد",
-        "page_title": "سریال شهرزاد",
-        "slug": "Shahrzad-1394",
-        "summary": "<strong>سریال شهرزاد،</strong>&nbsp;قصه‌&nbsp;عشق&nbsp;شهرزاد و فرهاد است که&nbsp;در بستری تاریخی،&nbsp;از کودتای 28 مرداد 1332 شروع شده و&nbsp;زندگی آنها با نفوذ و قدرت شخصی به نام بزرگ\nآقا، دستخوش تغییر&nbsp;می‌شود. ",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/c5/d3/c5d3836a30834ec889375b1b63a40243.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/fa/2d/fa2dd58bbaf447c39b91c8fcc4bf2afe.jpg"
-        },
-        "logo_image": {
-          "path": "https://static.filmnet.ir/images/95/41/9541715628854eb9bfc865a7b982a1ef.png"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/f2/ca/f2caebd8f0b540099f30d5a6c3c8d10e.jpeg"
-        },
-        "type": "series",
-        "flag": "has_subtitle",
-        "conditional_flag": "none",
-        "year": 1394,
-        "imdb_rank_percent": 80,
-        "original_name": "Shahrzad",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "3df08606-7d59-4a52-a225-ff167d15bde6",
-        "short_id": "sckAEDG"
-      },
-      {
-        "rate": 94.0,
-        "age_restriction": "toddlers",
-        "categories": [
-          {
-            "type": "default",
-            "items": [
-              { "title": "تاک شو" },
-              { "title": "ایرانی" },
-              { "title": "رئالیتی شو" },
-              { "title": "اختصاصی فیلم‌نت" }
-            ]
-          },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-06-08T09:55:23",
-        "status": "active",
-        "title": "صدای داوران",
-        "page_title": "ویژه برنامه آوای جادویی - صدای داوران",
-        "slug": "Avaye-Jadoei",
-        "summary": "صدای داوران، ویژه برنامه آوای جادویی است که&nbsp;سامان احتشامی داوران برنامه را به چالش می‌کشد.",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/92/c0/92c0eca027f547339eea17b5ed8ab927.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/a3/a9/a3a93c5c62414666a59861db5861b5df.jpg"
-        },
-        "logo_image": {
-          "path": "https://static.filmnet.ir/images/19/44/1944020f030c483fb0f5d7c7aecff4d4.png"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/6d/ff/6dff687d922645549069d17f66cd13cf.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1400,
-        "imdb_rank_percent": 0,
-        "original_name": "Avaye Jadoei",
-        "duration": "00:55:28",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "22af3fba-a827-40bc-a0ef-95fc93ee3297",
-        "short_id": "scKjzbD"
-      },
-      {
-        "rate": 90.0,
-        "age_restriction": "thirteen",
-        "categories": [
-          {
-            "type": "genre",
-            "items": [{ "title": "درام" }, { "title": "جنگی" }]
-          },
-          { "type": "default", "items": [{ "title": "ایرانی" }] },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-05-31T11:22:38",
-        "status": "active",
-        "title": "بمب یک عاشقانه",
-        "page_title": "فیلم بمب یک عاشقانه",
-        "slug": "Bomb-A-Love-Story-1396",
-        "summary": "<strong>بمب یک عاشقانه،</strong> داستان فراز و نشیب زندگی\nزن و شوهر جوانی است که در روزهای جنگ و بمباران، دچار اختلاف می‌شوند،&nbsp;این درحالی است که&nbsp;هر کدام&nbsp;از آنها درگیر دغدغه‌های کاری خود نیز هستند.",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/c8/03/c8038a8e3bd74488bf7c1024a08e6318.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/1b/a4/1ba464c04a9d4871891132dc0a29c1a9.jpg"
-        },
-        "logo_image": {
-          "path": "https://static.filmnet.ir/images/ea/a3/eaa3432a9dcc48bdb64e607caa17af63.png"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/4d/29/4d29473f5c9f4ab284533762ab4db5ac.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1396,
-        "imdb_rank_percent": 65,
-        "original_name": "Bomb: A Love Story",
-        "duration": "01:35:40",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "5914dd5e-26c8-4be6-b2de-771c149ec42a",
-        "short_id": "scpDEe3"
-      },
-      {
-        "rate": 91.0,
-        "age_restriction": "not_set",
-        "categories": [
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] },
-          {
-            "type": "genre",
-            "items": [{ "title": "ماجرایی" }, { "title": "درام" }]
-          },
-          {
-            "type": "default",
-            "items": [
-              { "title": "اختصاصی فیلم‌نت" },
-              { "title": "ایرانی" },
-              { "title": "سریال" },
-              { "title": "خانوادگی" }
-            ]
-          }
-        ],
-        "published_at": "2023-05-13T13:37:19",
-        "status": "active",
-        "title": "سریال قهوه ترک",
-        "page_title": "سریال قهوه ترک",
-        "slug": "Turk-Kahvesi",
-        "summary": "تو از حال دل من دیگه با خبری <br>\nبی من میخوای غمتو به کجا ببری<br>\nبسته شده چمدون سفر...",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/e2/37/e237881ff54b4f5ab7b5e648a0194541.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/06/f3/06f3006d75db483b9ae5111166d5b896.jpg"
-        },
-        "logo_image": {
-          "path": "https://static.filmnet.ir/images/36/61/36613aafdedf49e9a164f55365d45d9e.png"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/c2/93/c2939e40f77e48d1a876c15244892c72.jpeg"
-        },
-        "type": "series",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1402,
-        "imdb_rank_percent": 0,
-        "original_name": "Turk Kahvesi",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "496dd016-1da1-4113-993a-7a80d9b55f4a",
-        "short_id": "scgaE3v"
-      },
-      {
-        "rate": 95.0,
-        "age_restriction": "eighteen",
-        "categories": [
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] },
-          {
-            "type": "genre",
-            "items": [{ "title": "معمایی" }, { "title": "جنایی" }]
-          },
-          { "type": "default", "items": [{ "title": "ایرانی" }] }
-        ],
-        "published_at": "2023-05-11T15:39:00",
-        "status": "active",
-        "title": "مغزهای کوچک زنگ زده",
-        "page_title": "فیلم مغزهای کوچک زنگ زده",
-        "slug": "Sheeple-1396",
-        "summary": "<strong>فیلم مغزهای کوچک زنگ زده</strong>،&nbsp;داستان باندی از فروشندگان مواد مخدر در جنوب تهران است که بسیاری از جوانان و کودکان بی‌سرپرست را از کوچه و خیابان پناه داده‌اند. دو برادر به نام شاهین و شکور رهبری این باند را به عهده دارند اما اتفاقاتی غیرمنتظره، باعث فروپاشی خانواده آنها می‌شود.",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/48/76/4876fad028324db8bc86bcdaea47640c.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/64/ac/64acc212db0846a0a4e9c0fa35439337.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/0e/b0/0eb02ed11f0e4e1d8830bf04abb4ce01.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1396,
-        "imdb_rank_percent": 76,
-        "original_name": "Sheeple",
-        "duration": "01:42:31",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "272934b9-096a-4aae-b330-aa73fe84abb7",
-        "short_id": "sc2l991"
-      },
-      {
-        "rate": 96.0,
-        "age_restriction": "fifteen",
-        "categories": [
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] },
-          {
-            "type": "genre",
-            "items": [{ "title": "کمدی" }, { "title": "درام" }]
-          },
-          { "type": "default", "items": [{ "title": "ایرانی" }] }
-        ],
-        "published_at": "2023-05-11T15:16:00",
-        "status": "active",
-        "title": "نهنگ عنبر 2: سلکشن رؤیا",
-        "page_title": "فیلم نهنگ عنبر 2: سلکشن رؤیا",
-        "slug": "Sperm-Whale-Roya's-Selection-1395",
-        "summary": "<strong>فیلم نهنگ عنبر 2،</strong> داستان ارژنگ است که بعد چهل سال انتظار، با رؤیا ازدواج می‌کند و تصمیم می‌گیرد برای برگزاری&nbsp;مراسم عروسی به شمال بروند اما در مسیر و در حین مرور خاطرات گذشته، اتفاق غیرمنتظره‌ای رخ می‌دهد.",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/e0/44/e0441529f0f74fe4bab98767d2cb44c0.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/74/4c/744cc022fb0f47949fecde4b2e6f0372.jpg"
-        },
-        "logo_image": {
-          "path": "https://static.filmnet.ir/images/95/a6/95a61a543a634ca69de8edaa2501b1f2.png"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/f6/8e/f68e1ecbf22a4afdaef334f1c21839e9.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1395,
-        "imdb_rank_percent": 52,
-        "original_name": "Sperm Whale: Roya's Selection",
-        "duration": "01:25:38",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "968864ee-e14c-47cb-b429-04688f1ca107",
-        "short_id": "scX311b"
-      },
-      {
-        "rate": 94.0,
-        "age_restriction": "eighteen",
-        "categories": [
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] },
-          {
-            "type": "genre",
-            "items": [{ "title": "درام" }, { "title": "معمایی" }]
-          },
-          { "type": "default", "items": [{ "title": "ایرانی" }] }
-        ],
-        "published_at": "2023-05-08T04:09:08",
-        "status": "active",
-        "title": "بدون تاریخ، بدون امضاء",
-        "page_title": "فیلم بدون تاریخ، بدون امضاء",
-        "slug": "No-Date-No-Signature-1395",
-        "summary": "&nbsp;دکتر کاوه ایمانی که کارمند پزشکی قانونی است، حین رانندگی با موتورسیکلتی تصادف می‌کند که یک خانواده سوار آن بودند، اما هیچ اتفاقی برای آنها نمی‌افتد. ولی در کمال تعجب، فردای آن روز با جسدی در پزشکی قانونی مواجه می‌شود که پسر همان خانواده است و این شروع ماجراست.",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/b2/2e/b22ebfa6680a4a95a8785dd957b0d846.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/2f/78/2f787fd1506c42ab97bcd1503f701e82.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/6f/8a/6f8a66274c994626a3e878da1f2df8fb.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1395,
-        "imdb_rank_percent": 72,
-        "original_name": "No Date, No Signature",
-        "duration": "01:42:46",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "c2fcfbf6-87a5-40b6-b555-8f84ace09ac1",
-        "short_id": "sc4o4RW"
-      },
-      {
-        "rate": 92.0,
-        "age_restriction": "twelve",
-        "categories": [
-          {
-            "type": "default",
-            "items": [{ "title": "ایرانی" }, { "title": "خانوادگی" }]
-          },
-          {
-            "type": "genre",
-            "items": [
-              { "title": "درام" },
-              { "title": "بیوگرافی" },
-              { "title": "تاریخی" }
-            ]
-          },
-          { "type": "territory", "items": [{ "title": "‌ ایران " }] }
-        ],
-        "published_at": "2023-05-08T03:17:08",
-        "status": "active",
-        "title": "محمد رسول الله",
-        "page_title": "محمد رسول الله",
-        "slug": "Muhammad-The-Messenger-of-God-2015",
-        "summary": "<strong>محمد&nbsp;رسول الله،</strong> یک فیلم حماسی است،&nbsp;داستان آن در قرن ششم اتفاق می‌افتد و حول محور دوران کودکی پیامبر اسلام حضرت محمد (ص) می‌چرخد. این فیلم پرهزینه‌ترین تولید سینمای ایران تا به امروز است.&nbsp;",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/a3/c9/a3c96a95058a4a9d808b4933ce584e2d.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/6b/0f/6b0f0060215c4b7aad8d76e83cc7fd61.jpg"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/ec/37/ec37098a90594751bb134ca11b1f035b.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1394,
-        "imdb_rank_percent": 73,
-        "original_name": "Muhammad: The Messenger of God",
-        "duration": "02:57:10",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "0cb1d33e-ea51-477f-95c7-48b183246767",
-        "short_id": "scP6VWd"
-      },
-      {
-        "rate": 94.0,
-        "age_restriction": "thirteen",
-        "categories": [
-          {
-            "type": "genre",
-            "items": [{ "title": "ماجرایی" }, { "title": "درام" }]
-          },
-          {
-            "type": "territory",
-            "items": [{ "title": " فرانسه " }, { "title": "‌ ایران " }]
-          },
-          { "type": "default", "items": [{ "title": "ایرانی" }] }
-        ],
-        "published_at": "2023-05-07T05:10:43",
-        "status": "active",
-        "title": "فروشنده",
-        "page_title": "فیلم فروشنده",
-        "slug": "The-Salesman-2016",
-        "summary": "<p>فیلم <strong>فروشنده</strong>، داستان یک زوج جوان به نام&nbsp;رعنا و عماد است&nbsp;که در حال اجرای تئاتری بر اساس نمایشنامه مرگ فروشنده هستند و با نشست زمین خانه‌شان، مجبور به نقل مکان به خانه‌ای جدید می‌شوند، خانه‌ای که پیش‌تر زنی بدکاره در آن ساکن بوده و حادثه ای ادامه زندگی آنها را دستخوش اتفاقاتی می‌کند.<br></p>",
-        "cover_image": {
-          "path": "https://static.filmnet.ir/images/30/fb/30fb3bc2d1ff4482b223bcedbfca0690.jpg"
-        },
-        "poster_image": {
-          "path": "https://static.filmnet.ir/images/d2/59/d259f35d5a5a49c99d18dc31f4b95ffd.jpg"
-        },
-        "logo_image": {
-          "path": "https://static.filmnet.ir/images/e2/08/e208fb191c504130883b40ccd29c3216.png"
-        },
-        "alter_cover_image": {
-          "path": "https://static.filmnet.ir/images/9e/29/9e29d927749346668901a4a8d7196bd6.jpeg"
-        },
-        "type": "single_video",
-        "flag": "none",
-        "conditional_flag": "none",
-        "year": 1394,
-        "imdb_rank_percent": 77,
-        "original_name": "The Salesman",
-        "duration": "01:57:50",
-        "video_files": { "primary": [], "trailers": [] },
-        "video_content_access_approach": "none",
-        "id": "d8cb0423-694f-4b0c-b89a-7f283f66f8f0",
-        "short_id": "scoQEnP"
       }
     ],
     "meta": {
-      "total_items_count": 978,
-      "remaining_items_count": 954,
-      "next_url": "/video-contents?offset=24&count=24&order=latest&query=&types=single_video&types=series&types=video_content_list",
+      "total_items_count": 6650,
+      "remaining_items_count": 6610,
+      "next_url": "/video-contents?offset=40&count=40&order=latest&query=&types=single_video&types=series&types=video_content_list",
       "operation_result": "success",
       "operation_result_code": 2000,
       "display_message": "موفق",
-      "server_date_time": "2023-09-09T20:46:27"
+      "server_date_time": "2023-09-10T22:59:48"
     }
   }
 }

@@ -16,5 +16,5 @@ export interface GridProperties {
   className?: string;
   wrapperClassName?: string;
   children?: React.ReactNode;
-  loadMore: () => Promise<void>;
+  loadMore: (count: number, offset: number) => Promise<void>;
 }

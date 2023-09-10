@@ -1,3 +1,5 @@
+/** @format */
+
 import { MovieState } from "./movies-state.interface";
 import { createSlice } from "@reduxjs/toolkit";
 import type { PayloadAction } from "@reduxjs/toolkit";
@@ -8,7 +10,6 @@ import { AxiosResponse } from "axios";
 const initialState: MovieState = {
   data: [],
   total: 0,
-  nextPage: 0,
 };
 
 export const moviesSlice = createSlice({
@@ -18,11 +19,22 @@ export const moviesSlice = createSlice({
     fetching: (state) => {
       state.status = "Fetching";
     },
-    fetched: (state, action: PayloadAction<ResultSet<MovieDto[]>>) => {
+    fetched: (
+      state,
+      action: PayloadAction<{
+        offset: number;
+        result: ResultSet<MovieDto[]>;
+      }>
+    ) => {
       state.status = "Fetched";
-      state.data = [...state.data, ...action.payload.data];
-      state.total = action.payload.meta?.total_items_count;
-      state.nextPage = state.nextPage + 1;
+
+      if (action.payload.offset === 0) {
+        state.data = action.payload.result.data;
+      } else {
+        state.data = [...state.data, ...action.payload.result.data];
+      }
+
+      state.total = action.payload.result.meta?.total_items_count;
     },
     fetchFailed: (state, action: PayloadAction<AxiosResponse>) => {
       state.status = "FetchFailed";

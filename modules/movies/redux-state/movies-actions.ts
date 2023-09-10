@@ -7,7 +7,11 @@ import { fetchFailed, fetched, fetching } from "./movies.reducer";
 import { AppDispatch } from "shared/redux-state/app.dispatch.type";
 
 export class MoviesActions {
-  public static getMovies(dispatch: AppDispatch): Promise<void> {
+  public static getMovies(
+    dispatch: AppDispatch,
+    count: number,
+    offset: number
+  ): Promise<void> {
     return dispatch(
       async (
         localDispatch: AppDispatch,
@@ -16,11 +20,9 @@ export class MoviesActions {
       ): Promise<void> => {
         try {
           localDispatch(fetching());
-          const result = await services.movies.getMovies(
-            _getState().movies.nextPage
-          );
+          const result = await services.movies.getMovies(count, offset);
 
-          localDispatch(fetched(result));
+          localDispatch(fetched({ offset, result }));
         } catch (error) {
           localDispatch(fetchFailed(error as AxiosResponse));
           throw error;

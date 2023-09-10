@@ -13,7 +13,11 @@ import {
   GridCellProps,
   SectionRenderedParams,
 } from "react-virtualized";
-import { GRID_ITEM_LOADED, GRID_ITEM_LOADING } from "./grid.constant";
+import {
+  GRID_DEFAULT_PER_PAGE,
+  GRID_ITEM_LOADED,
+  GRID_ITEM_LOADING,
+} from "./grid.constant";
 import useWindowSize from "shared/hooks/use-window-size.hook";
 
 let itemStatusMap: Record<number, any> = {};
@@ -30,6 +34,7 @@ export const Grid = ({
 }: GridProperties) => {
   const screenSize = useWindowSize();
 
+  const rowCount = Math.ceil(total / columnCount);
   const isRowLoaded = ({ index }: Index) => !!itemStatusMap[index];
 
   const loadMoreRows = async ({ startIndex, stopIndex }: IndexRange) => {
@@ -37,7 +42,8 @@ export const Grid = ({
       itemStatusMap[index] = GRID_ITEM_LOADING;
     }
 
-    await loadMore();
+    const count = stopIndex - startIndex;
+    await loadMore(count, startIndex);
 
     for (let index = startIndex; index <= stopIndex; index++) {
       itemStatusMap[index] = GRID_ITEM_LOADED;
@@ -45,7 +51,7 @@ export const Grid = ({
   };
 
   useEffect(() => {
-    loadMore();
+    loadMore(GRID_DEFAULT_PER_PAGE, 0);
   }, []);
 
   const _onSectionRendered = (
@@ -72,7 +78,7 @@ export const Grid = ({
       <InfiniteLoader
         isRowLoaded={isRowLoaded}
         loadMoreRows={loadMoreRows}
-        rowCount={total}
+        rowCount={rowCount}
       >
         {({ onRowsRendered, registerChild }) => (
           <AutoSizer>
