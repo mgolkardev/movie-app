@@ -1,3 +1,4 @@
+import { formatDuration } from "../../../../shared/helpers/time.helper";
 import { MovieDto } from "../../apis/dtos/movie.dto";
 import { MovieCategoryType } from "../../apis/enums/movie-category-type.enum";
 import style from "./movie-item.style.module.scss";
@@ -32,7 +33,7 @@ export const MovieItem = ({
               .join("، ")}
           </span>
 
-          {duration && <span>{duration}</span>}
+          {duration && <span>{formatDuration(duration)}</span>}
 
           {imdb_rank_percent > 0 && (
             <span className={style.movieItem__coverDetailsRate}>
