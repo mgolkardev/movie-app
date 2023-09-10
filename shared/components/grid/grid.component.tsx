@@ -14,7 +14,7 @@ import {
   SectionRenderedParams,
 } from "react-virtualized";
 import { GRID_ITEM_LOADED, GRID_ITEM_LOADING } from "./grid.constant";
-import useWindowSize from "shared/hooks/use-window-size";
+import useWindowSize from "shared/hooks/use-window-size.hook";
 
 let itemStatusMap: Record<number, any> = {};
 
