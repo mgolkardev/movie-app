@@ -1,0 +1,30 @@
+@import "shared/themes/colors";
+@import "shared/themes/dimensions";
+
+.movies {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+
+  &__wrapper {
+    flex: 1;
+  }
+
+  &__grid {
+    direction: rtl !important;
+  }
+
+  &__count {
+    font: $large-bold;
+    padding-bottom: $padding-normal;
+  }
+
+  &__link,
+  &__skeleton {
+    padding: 4px;
+  }
+
+  &__progress {
+    margin: 100px auto;
+  }
+}
