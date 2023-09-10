@@ -16,12 +16,9 @@ export class MoviesActions {
       ): Promise<void> => {
         try {
           localDispatch(fetching());
-          console.log({ services });
           const result = await services.movies.getMovies(
             _getState().movies.nextPage
           );
-
-          console.log({ result });
 
           localDispatch(fetched(result));
         } catch (error) {
