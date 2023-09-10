@@ -14,7 +14,7 @@ import {
   SectionRenderedParams,
 } from "react-virtualized";
 import { GRID_ITEM_LOADED, GRID_ITEM_LOADING } from "./grid.constant";
-import useScreenSize from "shared/hooks/use-screen-size";
+import useWindowSize from "shared/hooks/use-window-size";
 
 let itemStatusMap: Record<number, any> = {};
 
@@ -28,7 +28,7 @@ export const Grid = ({
   itemRenderer,
   loadMore,
 }: GridProperties) => {
-  const screenSize = useScreenSize();
+  const screenSize = useWindowSize();
 
   const isRowLoaded = ({ index }: Index) => !!itemStatusMap[index];
 
