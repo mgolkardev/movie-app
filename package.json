@@ -10,25 +10,25 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
-    "@types/node": "20.6.0",
-    "@types/react": "18.2.21",
-    "@types/react-dom": "18.2.7",
     "axios": "^1.5.0",
-    "eslint": "8.49.0",
-    "eslint-config-next": "13.4.19",
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-redux": "^8.1.2",
     "redux": "^4.2.1",
-    "redux-thunk": "^2.4.2",
-    "sass": "^1.66.1",
-    "typescript": "5.2.2"
+    "redux-thunk": "^2.4.2"
   },
   "devDependencies": {
+    "@types/node": "20.6.0",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
     "axios-mock-adapter": "^1.21.5",
     "eslint-config-prettier": "^9.0.0",
     "prettier": "^3.0.3",
-    "redux-devtools-extension": "^2.13.9"
+    "redux-devtools-extension": "^2.13.9",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "typescript": "5.2.2",
+    "sass": "^1.66.1"
   }
 }
