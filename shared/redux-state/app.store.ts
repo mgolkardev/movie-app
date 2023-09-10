@@ -1,5 +1,3 @@
-/** @format */
-
 import * as MovieAPIs from "modules/movies/apis/movies.api";
 import { moviesReducer } from "modules/movies/redux-state/movies.reducer";
 import { configureStore } from "@reduxjs/toolkit";
